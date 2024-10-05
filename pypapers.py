@@ -3,7 +3,6 @@ import configparser
 import ctypes
 import random
 import argparse
-import subprocess
 from send2trash import send2trash
 from PIL import Image
 
